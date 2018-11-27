@@ -1,5 +1,5 @@
 ---
-title: Leo Brigewater
+title: Leo Bridgewater
 date: 2017-11-14 10:59:07 +0000
 role:
 - advisor
