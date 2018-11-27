@@ -14,8 +14,8 @@ services:
   heading: Health
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+    the Cannabis sector.
+  heading: Cannabis
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: 'Education For the Cannabis Industry. '
 textline: |-
