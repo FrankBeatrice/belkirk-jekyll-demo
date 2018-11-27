@@ -4,7 +4,7 @@ date: 2017-11-14 10:59:07 +0000
 role:
 - advisor
 - staff
-sub_heading: Professor
+sub_heading: Co-Founder
 thumbnail: "/uploads/2018/11/27/leo-bridgewater.jpg"
 email: Leo@Leaflaunch.com
 linkedin: ''
