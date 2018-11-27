@@ -5,7 +5,7 @@ role:
 - partner
 - board
 thumbnail: "/uploads/2018/11/27/david-serrano.jpg"
-sub_heading: Head of Board
+sub_heading: Co-Founder
 email: David@LeafLaunch.com
 linkedin: ''
 layout: person
