@@ -7,8 +7,11 @@ banner_image: "/uploads/2018/11/27/blur-cannabis-close-up-606506.jpg"
 sub_heading: Cultivation Certification - Certification in Cannabis & Hemp Horticulture
   Cultivation & Practices
 tags:
-- engineering
 - research
+- cannabis
+- horticultural
+- horticulture
+- hemp
 slug: ''
 
 ---
