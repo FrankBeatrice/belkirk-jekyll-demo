@@ -12,7 +12,9 @@ menu:
     weight: 4
 
 ---
-## Hours of Operation
+## ![](/uploads/2018/11/27/book-bookcase-books-1166657.jpg)![](/uploads/2018/11/27/book-bookcase-books-1166657-1.jpg)  
+  
+Hours of Operation
 
 The Leaf-Launch Team is available:
 
