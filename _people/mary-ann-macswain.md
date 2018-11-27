@@ -8,7 +8,7 @@ role:
 - staff
 - advisor
 slug: ''
-sub_heading: Research Chair
+sub_heading: Founder
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
 thumbnail: "/uploads/2018/11/27/rani-soto-1.png"
