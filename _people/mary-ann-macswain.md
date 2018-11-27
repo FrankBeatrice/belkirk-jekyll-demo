@@ -11,7 +11,7 @@ slug: ''
 sub_heading: Research Chair
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
-thumbnail: "/uploads/2018/11/27/rani-soto.png"
+thumbnail: "/uploads/2018/11/27/rani-soto-1.png"
 layout: person
 
 ---
