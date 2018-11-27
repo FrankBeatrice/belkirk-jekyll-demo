@@ -13,7 +13,6 @@ tags:
 - horticulture
 - hemp
 slug: ''
-published: false
 
 ---
 ## Overview
