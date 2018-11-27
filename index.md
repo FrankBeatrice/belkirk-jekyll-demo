@@ -4,6 +4,7 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: Leaf-Launch
 partners:
+- "/uploads/2018/11/27/0.png"
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
