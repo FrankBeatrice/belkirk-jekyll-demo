@@ -9,12 +9,8 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the Cannabis sector.
+
+- description: Performing collaborative research, education, buisness acceleration and providing services to support the Cannabis sector.
   heading: Cannabis
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: 'Education For the Cannabis Industry. '
