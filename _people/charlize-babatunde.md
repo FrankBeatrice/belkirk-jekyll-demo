@@ -4,7 +4,7 @@ date: 2017-11-14 10:54:31 +0000
 role:
 - staff
 thumbnail: "/uploads/2018/11/27/sebastian-nassau.jpg"
-sub_heading: Administration
+sub_heading: Co-Founder
 email: Sebastian@LeafLaunch.com
 linkedin: ''
 layout: person
