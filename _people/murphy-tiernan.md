@@ -5,7 +5,7 @@ role:
 - advisor
 - staff
 thumbnail: "/uploads/2018/11/27/F-Beatrice.jpg"
-sub_heading: Professor
+sub_heading: Co-Founder
 email: Frankie@LeafLaunch.com
 linkedin: ''
 layout: person
