@@ -10,19 +10,19 @@ tags:
 - engineering
 - research
 slug: ''
-published: false
 
 ---
 ## Overview
 
 #####    
-Cannabis Program Certification  
+Cannabis Program Certification:   
+Estimated Cost: 5,999  
   
   
   
 Course Description:   
   
-_Program Description: Participants of the Responsible Vendor course will learn the details of the Colorado Medical Marijuana Law and the Colorado Retail Marijuana Law. Participants will understand the legislative history, rationale for statutory provisions and practical knowledge of the Marijuana Enforcement Division rules, including proper procedures and unlawful acts. Te course is divided into four modules: legislative history, Colorado medical marijuana code, Colorado retail marijuana code and review/discussion/exam. Tis 16-hour program will teach you the in-depth study of the Cannabis Business, compliance guidelines, business startup, operations and management procedures. Get the most out of your business by learning how to develop, implement and maintain standard operating systems for both management and staff. Cannabis business compliance and strict record keeping will be demonstrated. Learn how to encourage sales goals and product development to make the most of your operations. Turn your dispensary and warehouse staff into satisfed operational and sales machines. Te course will provide training in legal activities, sales processes, customer service, marketing tools and public relations. Discussion of these business operations and goals will take place with several guest speakers who will provide valuable feedback._   
+_Program Description: Participants of the Responsible Vendor course will learn the details of the Colorado Medical Marijuana Law and the Colorado Retail Marijuana Law. Participants will understand the legislative history, rationale for statutory provisions and practical knowledge of the Marijuana Enforcement Division rules, including proper procedures and unlawful acts. Te course is divided into four modules: legislative history, Colorado medical marijuana code, Colorado retail marijuana code and review/discussion/exam. Tis 16-hour program will teach you the in-depth study of the Cannabis Business, compliance guidelines, business startup, operations and management procedures. Get the most out of your business by learning how to develop, implement and maintain standard operating systems for both management and staff. Cannabis business compliance and strict record keeping will be demonstrated. Learn how to encourage sales goals and product development to make the most of your operations. Turn your dispensary and warehouse staff into satisfied operational and sales machines. Te course will provide training in legal activities, sales processes, customer service, marketing tools and public relations. Discussion of these business operations and goals will take place with several guest speakers who will provide valuable feedback._   
   
 • Responsible Vendor Lecture   
 • Responsible Cultivator Training Module  
