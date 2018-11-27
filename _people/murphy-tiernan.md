@@ -11,8 +11,16 @@ linkedin: ''
 layout: person
 
 ---
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
-
-He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Frank Beatrice. Is an Software Engineer. Entrepreneur, &  Security professional.   
+  
+Developing, creating, hacking, and inspiring others is his passion.  
+  
+Frank is Graduate from Rutgers University: CB   
+He taught The first cohorts for the Software Engineering program as an Assistant Adjunct Instructor.  
+  
+He previously worked for High Times as their sole developer & interim CTO . Frank consulted on strategy, structure & maintenance costs.He was responsible launching for their most recent website with the digital team.  
+  
+Frank is an expert primarily Architecture & design.  
+He loves the JAM stack & building the fastest sites on the web.  
+  
+His main focus in life is to improve public health.
