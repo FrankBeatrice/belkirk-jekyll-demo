@@ -2,22 +2,27 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+heading: About Leaf-Launch
+sub_heading: Terra herbam virentem, est vita.
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: A multidisciplinary centre of experts who are essential to the growing Cannabis
+  Industry.
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
     weight: 3
+  navigation:
+    identifier: _about
+    weight: 2
+
 ---
+Leaf-Launch specializes in innovative education & research to support the growing Cannabis Industry.   
+Business, Cultivation, & Tech are our main focus. We are interested in advancing individuals in areas that are pressing & relevant to the growing industry need.  
+  
+Our classes regularly consist of real-world case studies collaborative projects taught by industry experts to accomplish this goal.   
+  
+We are currently engaged in a variety of ongoing projects & ventures within all areas of industry reach. Cultivation, Analytics, Business intelligence, Laboratory Testing, Start-up acceleration, Legal compliance & more 
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Students at Leaf-Launch get the advantage  to learn from the few established leaders in a new industry, as well as get access to cutting edge projects and technologies to further their learning endeavors.Our students leave with not only employment opportunities; They have the necessary resources to enter the industry as a business.
