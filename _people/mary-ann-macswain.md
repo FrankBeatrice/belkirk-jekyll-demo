@@ -1,8 +1,8 @@
 ---
-title: Mary-Ann MacSwain
+title: Rani Soto
 date: 2016-11-08 00:00:00 +0000
 description: ''
-email: maryanne@belkirkcollege.ca
+email: rani@leaflaunch.com
 linkedin: ''
 role:
 - staff
@@ -15,8 +15,8 @@ thumbnail: "/uploads/2018/11/27/rani-soto-1.png"
 layout: person
 
 ---
-Mary-Ann MacSwain joined Belkirk in 2016 as a Data Analyst.
-
-Mary-Ann received her B.A. (Honours) in Psychology from Dartmouth, where she is currently completing her MSc in Epidemiology.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Rani's combined  fifteen years of experience as a teacher & financial adviser led him  started LeafLaunch to build investment in the education of Millennials, Generation X  & Boomers.  
+  
+He believes that by leveraging the purchasing power of the community. Rani adamantly believes he by transforming the cannabis sector & creating wealth through building opportunities; he can rebuild communities affected by poverty & the drug war.  
+  
+He is a present advocate, central figure in the medical & adult-use marijuana movement.
